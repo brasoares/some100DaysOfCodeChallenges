@@ -6,6 +6,6 @@ fine_rate =  4.0
 if weight > allowance:
     excess = weight - allowance
     fine = excess * fine_rate
-    print(f"João, you will need to pay a fine of R$ {fine:.2f}".replace('.', ',')+".")
+    print(f"João, você pagará uma multa de R$ {fine:.2f}".replace('.', ',')+".")
 else:
     print(f"Parabéns, João! Sem multas para você hoje! Você pescou um total de {weight} quilos!")
