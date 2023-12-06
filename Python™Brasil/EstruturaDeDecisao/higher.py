@@ -3,7 +3,7 @@ n1 = int(input("Enter the first integer: "))
 n2 = int(input("Enter the second integer: "))
 
 if n1 > n2:
-  print(f"{n2}")
+  print(f"{n1}")
 elif n1 == n2:
   print(f"{n1} and {n2} are equal.")
 else:
