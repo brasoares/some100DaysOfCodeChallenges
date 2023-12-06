@@ -7,4 +7,4 @@ if n1 > n2:
 elif n1 == n2:
   print(f"{n1} and {n2} are equal.")
 else:
-  print(f"{n2 is higer than n1.}")
+  print(f"{n2} is higer than n1.")
