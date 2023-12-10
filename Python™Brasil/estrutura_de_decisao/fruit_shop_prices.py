@@ -7,6 +7,7 @@
 
 If the customer buys more than 8 Kg of fruits or if the total purchase value exceeds R$ 25.00, they will also receive a discount of 10% on this total. Write an algorithm to read the quantity (in Kg) of strawberries and the quantity (in Kg) of apples purchased and write the amount to be paid by the customer."""
 import locale
+# Set the locale to Brazilian Portuguese
 locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 strawberries = float(input("Enter the quantity of strawberries (in Kg): "))
@@ -36,4 +37,5 @@ total_price = apples_price + strawberries_price
 if strawberries + apples > 8.0 or total_price > 25.0:
     total_price = total_price - (total_price * 0.1)
 
-print(f"You will need to pay R$ {total_price:.2f} for your purchase.")
+# Applying locale.currency to print in BRL format
+print(f"You will need to pay R$ {locale.currency(total_price, grouping=True)} for your purchase.")
