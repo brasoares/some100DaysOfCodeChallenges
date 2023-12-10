@@ -17,25 +17,25 @@ strawberries_price = 0
 apples_price = 0
 total_price = 0
 
-if strawberries < 0 or apples < 0:
-    print("Not possible for the context; run the py over and try again.")
-elif strawberries < 5.01 and apples < 5.01:
-    strawberries_price = strawberries * 2.5
-    apples_price = apples * 1.8
+if strawberries < 5.01 and apples < 5.01:
+    strawberries_price = strawberries * 2.50
+    apples_price = apples * 1.80
 elif strawberries > 5.0 and apples > 5.0:
-    strawberries_price = strawberries * 2.2
-    apples_price = apples * 1.5
+    strawberries_price = strawberries * 2.20
+    apples_price = apples * 1.50
 elif strawberries > 5.0 and apples < 5.01:
-    strawberries_price = strawberries * 2.2
-    apples_price = apples * 1.8
+    strawberries_price = strawberries * 2.20
+    apples_price = apples * 1.80
 elif strawberries < 5.01 and apples > 5.0:
-    strawberries_price = strawberries * 2.5
-    apples_price = apples * 1.5
+    strawberries_price = strawberries * 2.50
+    apples_price = apples * 1.50
 
 total_price = apples_price + strawberries_price
 
-if strawberries + apples > 8.0 or total_price > 25.0:
-    total_price = total_price - (total_price * 0.1)
-
-# Applying locale.currency to print in BRL format
-print(f"You will need to pay {locale.currency(total_price, grouping=True)} for your purchase.")
+if strawberries < 0 or apples < 0:
+    print("Not possible for the context; run the py over and try again.")
+else:
+    if (strawberries + apples) > 8.00 or total_price > 25.00:
+        total_price = total_price * 0.90
+    # Applying locale.currency to print in BRL format
+    print(f"You will need to pay {locale.currency(total_price, grouping=True)} for your purchase.")
