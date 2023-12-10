@@ -38,4 +38,4 @@ if strawberries + apples > 8.0 or total_price > 25.0:
     total_price = total_price - (total_price * 0.1)
 
 # Applying locale.currency to print in BRL format
-print(f"You will need to pay R$ {locale.currency(total_price, grouping=True)} for your purchase.")
+print(f"You will need to pay {locale.currency(total_price, grouping=True)} for your purchase.")
