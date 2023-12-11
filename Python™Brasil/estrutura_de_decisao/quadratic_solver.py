@@ -17,7 +17,7 @@ c = float(input("Enter c's value: "))
 delta = pow(b, 2) - 4*a*c 
 
 if a == 0:
-	print("End of execution; not a quadratic equation (check a's value)!")
+	print("End of execution; not a quadratic equation (check a's value, please).")
 elif delta == 0:
 	if a != 0:	
 		root = -b / (2*a)
@@ -30,4 +30,4 @@ elif delta > 0:
 	print(f"Root 1: {root1}")
 	print(f"Root 2: {root2}")
 elif delta < 0:
-	print("The equation has no real roots!")
+	print("The equation has no real roots to calculate.")
