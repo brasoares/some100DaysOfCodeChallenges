@@ -1,4 +1,4 @@
-# Create a program that reads three numbers and displays the largest among them.
+# Create a program that reads three numbers and displays the largest among them all.
 
 n1 = float(input("Enter the first number: "))
 n2 = float(input("Enter the second number: "))
