@@ -7,19 +7,14 @@ Welcome to my 100 Days of Code journey! 🚀 I'll be documenting my coding progr
   <img src="media/YouTube.png" alt="YouTube Logo" width="18" height="18">
   <span style="vertical-align: middle; margin-left: 5px;">Watch Henoc's Dev Lab on YouTube</span>
 </a>
-
-
-  
-- GitHub: [soaresbra](https://github.com/soaresbra)
-  <a href="https://github.com/soaresbra" target="_blank">
-    <img src="media/GitHub.png" alt="GitHub Logo" width="18" height="18">
-    <span style="vertical-align: middle; margin-left: 5px;">Visit soaresbra on GitHub</span>
-  </a>
+<a href="https://github.com/soaresbra" target="_blank">
+  <img src="media/GitHub.png" alt="GitHub Logo" width="18" height="18">
+  <span style="vertical-align: middle; margin-left: 5px;">Visit soaresbra on GitHub</span>
+</a>
 <a href="https://twitter.com/HenocSoares" target="_blank">
   <img src="media/Twitter.avif" alt="Twitter Logo" width="18" height="18">
-  <span style="vertical-align: middle; margin-left: 5px;">- Follow @HenocSoares on Twitter</span>
+  <span style="vertical-align: middle; margin-left: 5px;">Follow @HenocSoares on Twitter</span>
 </a>
-
 ## Social Media Updates
 
 Follow my journey on Twitter for daily updates and insights:
