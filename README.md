@@ -1,4 +1,4 @@
-# Some of the 100 Days of Code Challenge stuff!
+<div align="center"> # Some of the 100 Days of Code Challenge stuff! </div>
 
 Welcome to my 100 Days of Code journey! 🚀 I'll be documenting my coding progress, challenges, and victories over the next 100 days. You can follow along on [YouTube](https://www.youtube.com/@HenocSoares), [GitHub](https://github.com/soaresbra/100-days-of-code), and [Twitter](https://twitter.com/HenocSoares).
 
