@@ -3,7 +3,7 @@
 Welcome to my 100 Days of Code journey! 🚀 I'll be documenting my coding progress, challenges, and victories over the next 100 days. You can follow along on [Replit](https://replit.com/learn/100-days-of-python?utm_medium=referral&utm_campaign=100_days_of_code_python) (not so much, now), [GitHub](https://github.com/soaresbra/100-days-of-code), and [Twitter](https://twitter.com/HenocSoares).
 
 ## About Me
-
+- YouTube: [Henoc's Dev Lab](https://www.youtube.com/@HenocSoares)
 - GitHub: [soaresbra](https://github.com/soaresbra)
 - Twitter: [@HenocSoares](https://twitter.com/HenocSoares)
 
