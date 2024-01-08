@@ -12,7 +12,7 @@ Welcome to my 100 Days of Code journey! 🚀 I'll be documenting my coding progr
 Follow my journey on Twitter for daily updates and insights:
 
 <a href="https://twitter.com/HenocSoares" target="_blank">
-  <img src="media/Twitter.avif" alt="Twitter Logo" width="22" height="22">
+  <img src="media/Twitter.avif" alt="Twitter Logo" width="18" height="18">
   <span style="vertical-align: middle; margin-left: 5px;">Follow @HenocSoares on Twitter</span>
 </a>
 
