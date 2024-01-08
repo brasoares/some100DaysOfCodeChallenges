@@ -4,11 +4,11 @@ Welcome to my 100 Days of Code journey! 🚀 I'll be documenting my coding progr
 
 ## Connect with me and come watch my YouTube videos!
 
-- <img src="media/YouTube.png" alt="YouTube Logo" width="18"> **Watch Henoc's Dev Lab on YouTube**
+- [![YouTube](media/YouTube.png)](https://www.youtube.com/@HenocSoares) **Watch Henoc's Dev Lab on YouTube**
 
-- <img src="media/GitHub.png" alt="GitHub Logo" width="18"> **Visit soaresbra on GitHub**
+- [![GitHub](media/GitHub.png)](https://github.com/soaresbra) **Visit soaresbra on GitHub**
 
-- <img src="media/Twitter.avif" alt="Twitter Logo" width="18"> **Follow @HenocSoares on Twitter**
+- [![Twitter](media/Twitter.avif)](https://twitter.com/HenocSoares) **Follow @HenocSoares on Twitter**
 
 ## Social Media Updates
 
