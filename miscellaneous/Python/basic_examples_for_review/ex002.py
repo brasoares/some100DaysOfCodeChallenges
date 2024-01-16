@@ -4,5 +4,5 @@
 first_name = input("Provide your first name: ")
 surname = input("Now, please provide your surname: ")
 
-# Using the + operator for string concatenation
-print("Hello," + first_name + " " + surname + ".")
+# Using f-string
+print(f"Hello, {first_name} {surname}.")
