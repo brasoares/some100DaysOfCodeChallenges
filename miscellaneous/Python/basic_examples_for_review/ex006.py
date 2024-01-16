@@ -9,6 +9,6 @@ print("Please, just provide positive numbers!")
 starting_point = int(input("How many slices did you start with? "))
 eaten_amount = int(input("How many have you eaten? "))
 
-slices_left = startint_point - eaten_amount
+slices_left = starting_point - eaten_amount
 
 print(f"You have {slices_left} slices left :)!")
