@@ -4,4 +4,4 @@
 first_name = input("Provide your first name: ")
 surname = input("Now, please provide your surname: ")
 
-print("Hello,", first_name, surname)
+print("Hello,", first_name, surname + ".")
