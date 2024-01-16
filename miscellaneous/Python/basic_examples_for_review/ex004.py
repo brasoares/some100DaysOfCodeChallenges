@@ -8,4 +8,4 @@ n2 = int(input("Enter the second integer: "))
 
 sum = n1 + n2
 
-print(f"The total is: {sum}")
+print(f"The total is: {sum}.")
