@@ -2,4 +2,6 @@
 # Hello [First Name].
 
 first_name = input("Provide your first name: ")
-print("Hello,", first_name + ".")
+
+# Using the + operator for string concatenation
+print("Hello, " + first_name + " " + ".")
