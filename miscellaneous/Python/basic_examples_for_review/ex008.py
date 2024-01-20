@@ -6,9 +6,13 @@ person must pay.
 '''
 
 bill_amount = float(input("Enter bill's total price: "))
-diners_count = int(input("How many diners are there? "))
 
-# If necessary, use while to wait for the correct positive number (pay_per_diner)
+while True:
+    diners_count = int(input("How many diners are there? "))
+    if diners_count > 0:
+        break
+    else:
+        print("Please enter a valid positive number of diners. ")
 
 if diners_count != 0:
     pay_per_diner = bill_amount / diners_count
