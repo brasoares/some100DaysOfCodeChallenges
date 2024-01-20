@@ -12,4 +12,4 @@ seconds = minutes * 60
 print(f"In {seconds} days, there are: ")
 print(f"{hours} hours")
 print(f"{minutes} minutes")
-print(f"{minutes} seconds")
+print(f"{seconds} seconds")
