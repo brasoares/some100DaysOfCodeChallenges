@@ -6,3 +6,4 @@ and display the output [Name] next birthday you will be [new age].
 current_age = input('Hi! Please, inform you current age: ')
 
 new_age = current_age + 1
+print(f"On your next Birthday you'll be {new_age} years old :)")
