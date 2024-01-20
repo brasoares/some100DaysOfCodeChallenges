@@ -11,7 +11,7 @@ minutes = hours * 60
 seconds = minutes * 60
 
 # Results
-print(f"In {seconds} days, there are: ")
+print(f"In {num_of_days} days, there are: ")
 print(f"{hours} hours")
 print(f"{minutes} minutes")
 print(f"{seconds} seconds")
