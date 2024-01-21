@@ -7,7 +7,7 @@ number in a user-friendly format.
 number_over = int(input("Enter a number over 100: "))
 number_under = int(input("Enter a number under 10: "))
 
-if numberLower = 
+if number_under = 
 times = numberOver/numberLower
 
 print(f"{numberLower} goes {times} times inside {numberOver}!")
