@@ -10,4 +10,4 @@ number_under = int(input("Enter a number under 10: "))
 if number_under = 
 times = numberOver/number_under
 
-print(f"{numberLower} goes {times} times inside {numberOver}!")
+print(f"{number_under} goes {times} times inside {numberOver}!")
