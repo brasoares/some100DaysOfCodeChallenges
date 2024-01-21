@@ -5,6 +5,11 @@ number in a user-friendly format.
 '''
 
 number_over = int(input("Enter a number over 100: "))
+
+While True:
+  
+
+
 number_under = int(input("Enter a number under 10: "))
 
 if number_under == 0:
