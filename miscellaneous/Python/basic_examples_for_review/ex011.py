@@ -4,9 +4,10 @@ Task the user to enter a number over 100 and then enter a number under
 number in a user-friendly format.
 '''
 
-numberOver = int(input("Enter a number over 100: "))
-numberLower = int(input("Enter a number under 10: "))
+number_over = int(input("Enter a number over 100: "))
+number_under = int(input("Enter a number under 10: "))
 
+if numberLower = 
 times = numberOver/numberLower
 
 print(f"{numberLower} goes {times} times inside {numberOver}!")
