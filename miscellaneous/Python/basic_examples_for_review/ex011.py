@@ -11,4 +11,4 @@ if number_under == 0:
   print("Cannot divide by zero. Try again!")
 else:
   times = number_over/number_under
-  print(f"{number_under} goes {times} times inside {number_over}!")
+  print(f"{number_under} goes around {times:.2f} times inside {number_over}!")
