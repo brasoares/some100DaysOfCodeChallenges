@@ -9,6 +9,6 @@ number_under = int(input("Enter a number under 10: "))
 
 if number_under == 0:
   print("Cannot divide by zero. Try again!")
+else:
 times = number_over/number_under
-
 print(f"{number_under} goes {times} times inside {number_over}!")
