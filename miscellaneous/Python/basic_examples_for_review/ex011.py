@@ -6,7 +6,7 @@ number in a user-friendly format.
 
 number_over = int(input("Enter a number over 100: "))
 
-While True:
+while number_under <= 0:
   number_under = int(input("Enter a number under 10: "))
   
   if number_under == 0:
@@ -14,4 +14,3 @@ While True:
   else:
     times = number_over/number_under
     print(f"{number_under} goes around {times:.2f} times inside {number_over}!")
-    break
