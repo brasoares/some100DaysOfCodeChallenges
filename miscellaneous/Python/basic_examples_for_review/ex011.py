@@ -8,6 +8,5 @@ number_over = int(input("Enter a number over 100: "))
 number_under = int(input("Enter a number under 10: "))
 
 if number_under = 
-times = numberOver/numberLower
-
+times = numberOver/number_under
 print(f"{numberLower} goes {times} times inside {numberOver}!")
