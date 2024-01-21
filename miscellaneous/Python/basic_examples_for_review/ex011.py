@@ -7,7 +7,7 @@ number in a user-friendly format.
 number_over = int(input("Enter a number over 100: "))
 number_under = 0
 
-while number_under <= 0:
+while number_under <= 0 and number_under > 9:
   number_under = int(input("Enter a number under 10: "))
   print("Cannot divide by zero. Try again!")
  
