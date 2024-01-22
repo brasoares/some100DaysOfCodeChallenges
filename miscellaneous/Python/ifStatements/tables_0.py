@@ -20,4 +20,4 @@ for row in comparison_operators_table:
 
 print("\nLogical Operators")
 for row in logical_operators_table:
-    print("{:<15} {:<27}}".format(*row))
+    print("{:<15} {:<27}".format(*row))
