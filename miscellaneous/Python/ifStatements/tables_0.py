@@ -1,3 +1,5 @@
+# This code prints in a neat way the necessary learning data
+
 # Store table data as lists
 comparison_operators_table = [
     ["Operator", "Description"],
