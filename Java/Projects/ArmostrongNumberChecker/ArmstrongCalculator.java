@@ -1,4 +1,4 @@
-class ArmstrongCalculator{
+class ArmstrongCalculator{ // PascalCase
 	public static boolean isArmstrong(int number){
 		// variable declaration
 		int temp = number;
