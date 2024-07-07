@@ -6,7 +6,7 @@ print("Blank List: ")
 print(List)
 
 # List of numbers
-List = [10, 20, 14]
+List = [10, 33, 144]
 print("\nList of numbers: ")
 print(List)
 
